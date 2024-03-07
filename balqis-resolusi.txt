@@ -1,0 +1,4 @@
+ memulai belajar github
+ - memahami github
+ - menerima eror 
+ - dan saba
