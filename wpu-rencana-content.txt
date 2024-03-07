@@ -6,6 +6,6 @@ RENCANA KONTEN WPU
    ^ Angular
    ^ React
 - Php Frameworks
-   ^Laravel
+   ^ Laravel
 - Interview
 - vlogs
